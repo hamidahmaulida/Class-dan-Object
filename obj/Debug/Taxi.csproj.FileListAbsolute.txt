@@ -1,0 +1,6 @@
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\bin\Debug\Taxi.exe.config
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\bin\Debug\Taxi.exe
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\bin\Debug\Taxi.pdb
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\obj\Debug\Taxi.csprojResolveAssemblyReference.cache
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\obj\Debug\Taxi.exe
+D:\SMT 2\PEMROGRAMAN\ClassDanObject\Taxi\Taxi\obj\Debug\Taxi.pdb
